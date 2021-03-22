@@ -1,0 +1,25 @@
+{
+  "name": "fetchuserdata-asyncaction-redux",
+  "version": "1.0.0",
+  "description": "React-Redux",
+  "main": "asyncActions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskaansingh/FetchUserData-AsyncAction-Redux.git"
+  },
+  "author": "Muskaan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskaansingh/FetchUserData-AsyncAction-Redux/issues"
+  },
+  "homepage": "https://github.com/muskaansingh/FetchUserData-AsyncAction-Redux#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  }
+}
